@@ -1,0 +1,16 @@
+1 FOR
+Bucle que evalua expresiones hasta encontrar lo que se busca, tiene una estructura definida por la palabra clave for seguido de 3 elementos dentro de su parentesis, el primer elemeto se declara una variable con ñ separamos los elementos, el segundo tendra un condicional y el tercero el incremento, el bucle terminara dependiendo del condicional, sin embargo tambien puede tener otros condicionamientos dentro de sus llaves que tambien saldran a otra parte del programa general.
+
+2 operadores logicos
+
+&&
+operador logico AND
+donde se evaluaran dos condiciones, terminos o variables, siguiendo una tabla de verdad la cual solo da verdadero si las dos son verdaderos.
+
+|| 
+operador logico OR
+donde se evaluaran dos condiciones, terminos o variables, siguiendo una tabla de verdad la cual solo da falso si las dos son falsos, el resto dara verdadero.
+
+!
+operador logico NOT
+devolvera valor negado en bool(true, false) de lo que se este evaluando 
