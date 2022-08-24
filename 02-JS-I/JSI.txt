@@ -1,0 +1,25 @@
+1 VARIABLES
+
+Es la manera de darle nombre a lo que vamos a usar en el programa, si vamos a usar ejemplo nombres,edades, personas, etc,  deben tener una identificacion, la cual se les da por medio de tres palabras claves que son var, let, cons.
+Al denominar una variable se antepone la palabra clave seguida de un espacio el nombre que la identificara, espacio, signo igual, espacio y podemos darle valor.
+ej:
+var primernombre = 'PASTOR';
+Asi la variable sera primernombre y si imprimimos esta variable primernombre nos arrojara PASTOR.
+
+2 STRING
+Es un tipo de dato que contendra texto, se encierra entre comillas.
+var primernombre = 'PASTOR';
+PASTOR sera el valor de la variable (primernombre) y es de tipo string por ser una cadena de texto.   
+
+3 FUNCIONES
+una funcion es segmento de codigo el cual devulve valores de una o variables procesadas.
+tecnicamente se llaman objetos y son objetos invocables(callable objects).
+tienen una estructura definida y comienza por la palabra clave function, esto hara que se trate como tal, seguido del nombre que en lo posible describira para que sera, seguido de parentesis abierto y cerrado , seguido de corchtes abierto y cerrado en los cuales ira nuestro codigo.
+los argumentos seran las variables a usar dentro de la funcion, primero los pondremos dentro de los parentesis y dentro de la funcion ejecutaremos diveras tareas o calculos con ellos.
+
+4 declaracion if
+es una palabra clave que funciona como contro de fliujo devolviendo true o false y dejando continuar el programa en un sitio definido dependiendo estas decisiones.
+
+
+5 valores booleanos
+son variables que tendran dos posibles valores true o false, se puede dar analogia con el sistema binario donde s�lo se usa el 1 o el cero, se usaran para tomar decisiones de como continuar el programa o para evaluar el cambio de estado de alguna variable de este tipo.
