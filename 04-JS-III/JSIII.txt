@@ -1,0 +1,3 @@
+ARRAY
+es un contenedor de almacenamiento para coleccion de datos, elcontenedor puede tener todo tipo de datos separados por comas, los array se pueden llenar o leer segun sea la necesidad.
+Se construye declarando una variable, seguido de = y seguido de []

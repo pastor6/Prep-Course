@@ -1,0 +1,16 @@
+1 
+-Objeto:
+
+es un elemento contenedor de propiedades para una variable.
+
+ -Propiedades 
+son las que definen las caracteristicas de los objetos.
+
+-Metodos
+Es una accion que puede ejecutar los objetos
+
+-For in
+Es un bucle para recorrer las propiedades de los objetos.
+
+-Notación de puntos vs notación de corchetes
+son formas de convocar las propiedades de los objetos, no tienen diferencia, solo que los puntos pueden ser mas rapidos para escribir.
